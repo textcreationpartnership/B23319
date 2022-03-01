@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the hon[ora]ble, the Commons of England, in Parliament assembled: the humble petition of William Fuller.</title>
+            <author>Fuller, William, 1670-1717?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23319</idno>
+            <idno type="STC">Wing F2486A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[4]</idno>
+            <idno type="EEBO-CITATION">99885448</idno>
+            <idno type="PROQUEST">ocm99885448</idno>
+            <idno type="VID">189427</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23319)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189427)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C14:1[40]; C16:2[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the hon[ora]ble, the Commons of England, in Parliament assembled: the humble petition of William Fuller.</title>
+                  <author>Fuller, William, 1670-1717?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing; date in ms. note below title on copy at C14:1[40]: [--]erd at ye door pf ye Commons Oct: 29, 1696.</note>
+                  <note>Copy at reel C14:1[40] is Harleian mss. 7614 leaf 111.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:189427:1" rendition="simple:additions"/>
+            <head>To the Hon<hi rend="sup">ble,</hi> the COMMONS of England, In Parliament Aſſembled: <hi>The Humble Petition of</hi> WILLIAM FULLER.</head>
+            <opener>SHEWETH,</opener>
+            <p>THAT Your <hi>Petitioner</hi> hath long groan'd under intollerable Misfortunes, occaſion'd through the Immaturity of his Judgment, which was too eaſily Impos'd on, by the Perfidiouſneſs of Coll. <hi>Thomas Dalleval,</hi> and Mr. <hi>George Hayes;</hi> for whoſe Appearance Your <hi>Petitioner</hi> Engag'd to the <hi>Honourable Houſe,</hi> (intentionally for the Nation's Service, tho' the Event prov'd contrary;) and, for their Failure, incurr'd the Diſpleaſure of the <hi>Same.</hi>
+            </p>
+            <p>YOUR <hi>Petitioner</hi> humbly preſumes, That moſt in this <hi>Houſe</hi> were preſent, when his <hi>Information</hi> was Read; as alſo, the Lord <hi>Preſton</hi>'s, and Mr. <hi>Crone</hi>'s Confeſſions; which did <hi>Both</hi> Confirm, what Your <hi>Petitioner</hi> Affirm'd; perticularly, Mr. <hi>Crone</hi> Aſſerts it upon Oath.</p>
+            <p>YOUR <hi>Petitioner</hi> ſubmiſſively flings himſelf on the Juſtice and Wiſdom of This <hi>Honourable Houſe;</hi> Humbly conceiving, That he can have no Redreſs from the Wrongs he ſuffers, but by Your Wiſe Examination of the Whole Management of the Affair; into which Your <hi>Petitioner</hi> was ſo Cunningly enſnared, by the Artifices of the <hi>French Court,</hi> and their Private Adherents in this Kingdom; by whoſe ſubtle Device, the <hi>Honourable Houſe</hi> (as well as Your <hi>Petitioner</hi>) was Abus'd; It being, at that Time, the greateſt Deſign, and moſt for the Intereſt of the <hi>French</hi>-Court, and their Friends in <hi>England,</hi> to ſtifle what ever Diſcovery ſhould be then made: For, the <hi>April</hi> following, they purpoſed an Invaſion; and accordingly provided all ne<g ref="char:EOLhyphen"/>ceſſary Proviſions at <hi>La-Hogue,</hi> &amp;c.</p>
+            <p>And, for as much as Your <hi>Petitioner</hi> can plainly prove, That <hi>Dalleval</hi> and <hi>Hays</hi> did Come-over; and the Method of their whole Intriegue in this baſe Deſign, in which they had great Aſſiſtance in this Kingdom; as alſo, the manner of their Go<g ref="char:EOLhyphen"/>ing-off;</p>
+            <p>YOUR <hi>Petitioner,</hi> with entire Submiſſion, moſt heartily wiſhes, (for the Na<g ref="char:EOLhyphen"/>tions <hi>Preſent,</hi> as well as <hi>Future</hi> Security) That this <hi>Honourable Houſe</hi> will examine in<g ref="char:EOLhyphen"/>to the Management of the whole Intriegue; which coſt the <hi>French</hi>-Court ſo much Pains and Mony.</p>
+            <p>BY this Inſpection, You will plainly find, who they are that have ſo long, and, I fear, part of them, yet continue to betray His preſent Majeſties Council, and this Kingdom in General.</p>
+            <p>THAT Your <hi>Petitioner</hi> was the Firſt, which diſcovered to King <hi>WILLIAM</hi> Collonel <hi>Parker</hi>'s, and Chevalier <hi>Granvil</hi>'s Deſign of Aſſaſſinating His Moſt Sa<g ref="char:EOLhyphen"/>cred Majeſty, Your <hi>Petitioner</hi> can fully prove.</p>
+            <p>And, That his former Informations were a true Narrative, even of the laſt in<g ref="char:EOLhyphen"/>tended Invaſion and Conſpiracy, in moſt Particulars: And, That thoſe <hi>Former,</hi> and theſe <hi>Latter</hi> Deſigns, were much alike managed by the ſame Conſpiring Hands and Hearts; will plainly appear, on the Peruſal of the ſaid Information.</p>
+            <p>YOUR <hi>Petitioner,</hi> after all this, has been reduced to the moſt extream Miſe<g ref="char:EOLhyphen"/>ries, and ſuffered Publick Diſgrace, occaſion'd by Other's Villanies; and has alſo been expoſed to ſeveral hard Shifts, and Extremities.</p>
+            <div type="part">
+               <opener>Your Petitioner therefore humbly Prays,</opener>
+               <p>THAT (for the Nation's Good [whoſe Repreſentatives <hi>YOU </hi>are] as well as for his Vindication from the intollerable Injuries Your ſaid<hi> Petitioner </hi>has ſo long groan'd under) He, Your<hi> Petitioner, </hi>may have ſome Redreſs, by Your Mature Conſideration of his unhappy Caſe; That<hi> Juſtice, </hi>and<hi> Truth, </hi>may ap<g ref="char:EOLhyphen"/>pear on every Side; and, That ſuch neceſſary Proviſion may be made for Your<hi> Petitioner, </hi>(who left his Friends, Intereſt, and Imploy in<hi> France)</hi> to Serve this preſent<hi> Government) </hi>as to Your Highly Judicious Wiſdoms ſhall ſeem expe<g ref="char:EOLhyphen"/>dient: —Your<hi> Petitioner </hi>further prays, That he may have Leave of the<hi> Houſe, </hi>to publiſh A full and perfect Account of all he knows, relating to the former Conſpiracies againſt the preſent<hi> Government.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>And Your Petitioner, as in Duty bound, ſhall ever Pray,</hi>&amp;c.</signed>
+               </closer>
+            </div>
+            <pb facs="tcp:189427:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
